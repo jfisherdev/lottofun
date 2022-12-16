@@ -1,0 +1,2 @@
+# lottofun
+Lotto fun
